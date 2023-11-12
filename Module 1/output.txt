@@ -1,3 +1,1 @@
-Hello World
-10My favourite number is 10
-My 10 favourite.
+D 21
