@@ -1,5 +1,6 @@
 #include <iostream>
 #include <algorithm>
+#include <utility>
 
 using namespace std;
 int main()
@@ -11,6 +12,9 @@ int main()
 
     int mx = max({a, b, c});
     cout << mx << endl;
+
+    swap(a, b);
+    cout << a << " " << b << endl;
 
     return 0;
 }
