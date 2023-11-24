@@ -1,4 +1,4 @@
 3
 Arko 10 100
 Chowa 12 90
-Murad 14 91
+Murad 11 90
