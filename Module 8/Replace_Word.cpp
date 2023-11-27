@@ -12,7 +12,7 @@ int main()
     {
         string S, X;
         cin >> S >> X;
-        size_t word = S.find(X);
+        int word = S.find(X);
 
         int not_exist = -1;
         while (word != not_exist)
